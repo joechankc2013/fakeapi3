@@ -20,5 +20,37 @@
          "item":"Vehicle",
          "desc":"Vehicle Booking and Driver Information"
       }
+   ],
+   "Event":[
+      {
+         "id":20100,
+         "item":"Engineer Talks"
+      },
+      {
+         "id":20200,
+         "item":"Staff Club Activity"
+      },
+      {
+         "id":20300,
+         "item":"Other Events"
+      }
+   ],
+   "Vehicle":[
+      {
+         "id":40100,
+         "item":"Today"
+      },
+      {
+         "id":40200,
+         "item":"Following Days in This Week"
+      },
+      {
+         "id":40300,
+         "item":"Next Week"
+      },
+      {
+         "id":40400,
+         "item":"Driver Information"
+      }
    ]
 }
