@@ -43,6 +43,16 @@
             {
                "id":30101,
                "item":"Contract Advisory Unit (CAU)"
+            }
+         ]
+      },
+      {
+         "id":30100,
+         "item":"DSD Organization Chart",
+         "Subitem":[
+            {
+               "id":30101,
+               "item":"Contract Advisory Unit (CAU)"
             },
             {
                "id":30102,
@@ -164,7 +174,7 @@
             }
          ]
       }
-   ],
+   },
    "Vehicle":[
       {
          "id":40100,
